@@ -1,0 +1,61 @@
+body {
+  outline-style: solid;
+  height: 50%;
+  width: 50%;
+  padding-bottom: 20px;
+}
+h1 {
+  text-align: center;
+  font-family: Comic Sans MS;
+}
+h3 {
+  text-align: center;
+  font-weight: normal;
+}
+.container {
+  width: 90%;
+  height: 350px;
+  border-style: solid;
+  border-bottom: solid;
+  margin: 45px;
+  margin-top: 60px;
+  align-content: center;
+}
+.box {
+  border: solid;
+  border-collapse: collapse;
+  border-width: thin;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 5px;
+}
+.image {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+.name {
+  position: relative;
+  margin-left: 527px;
+}
+.email {
+  position: relative;
+  margin-left: 527px;
+}
+.phone {
+  position: relative;
+  margin-left: 502px;
+}
+.number {
+  position: relative;
+  margin-left: 462px;
+}
+.attendee {
+  position: relative;
+  margin-left: 438px;
+}
+.submit {
+  margin-left: 605px;
+}
